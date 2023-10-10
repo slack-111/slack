@@ -1,2 +1,2 @@
 # slack
-ssm 捐赠
+ssm
